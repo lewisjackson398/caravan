@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/caravan/static/css/main.126c14d6.chunk.css",
-    "main.js": "/caravan/static/js/main.b0e746eb.chunk.js",
-    "main.js.map": "/caravan/static/js/main.b0e746eb.chunk.js.map",
+    "main.js": "/caravan/static/js/main.d29af5b0.chunk.js",
+    "main.js.map": "/caravan/static/js/main.d29af5b0.chunk.js.map",
     "runtime-main.js": "/caravan/static/js/runtime-main.7ddb6876.js",
     "runtime-main.js.map": "/caravan/static/js/runtime-main.7ddb6876.js.map",
     "static/js/2.0462a28c.chunk.js": "/caravan/static/js/2.0462a28c.chunk.js",
     "static/js/2.0462a28c.chunk.js.map": "/caravan/static/js/2.0462a28c.chunk.js.map",
     "index.html": "/caravan/index.html",
-    "precache-manifest.204644768ce3994f786fb86cbb46bf9a.js": "/caravan/precache-manifest.204644768ce3994f786fb86cbb46bf9a.js",
+    "precache-manifest.74f10fb9eafc155510916a7a137360cf.js": "/caravan/precache-manifest.74f10fb9eafc155510916a7a137360cf.js",
     "service-worker.js": "/caravan/service-worker.js",
     "static/css/main.126c14d6.chunk.css.map": "/caravan/static/css/main.126c14d6.chunk.css.map",
     "static/js/2.0462a28c.chunk.js.LICENSE.txt": "/caravan/static/js/2.0462a28c.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.7ddb6876.js",
     "static/js/2.0462a28c.chunk.js",
     "static/css/main.126c14d6.chunk.css",
-    "static/js/main.b0e746eb.chunk.js"
+    "static/js/main.d29af5b0.chunk.js"
   ]
 }
