@@ -1,0 +1,25 @@
+{
+  "name": "caravan website",
+  "homepage": "https://github.com/lewisjackson398",
+  "authors": [
+    "lewis jackson"
+  ],
+  "description": "Caravan website built in react for client.",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "Lewis Jackson License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
